@@ -1,0 +1,2 @@
+rootProject.name = 'CiceroHumla'
+include ':app'
